@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there, you have come across a bash engineer profile
+This is the things that I work on over the years  
+/PCB /Solidwork /Blender /CCNP /Amateur RF /React+NodeJS+SQLite /EtherCAT /ROS /REST /MQTT
+
 
 <!--
 **ctm6100/ctm6100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
